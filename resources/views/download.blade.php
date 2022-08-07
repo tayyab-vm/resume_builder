@@ -93,6 +93,30 @@
             <ul style="font-size:13px">
                 <li>Development and maintenance of existing enterprise level software solutions.</li>
                 <li>Collaboration with mobile application developers to improve and provide services.</li>
+                <li>Improving system quality by identifying issues and common patterns, and
+                    developing standard operating procedures.</li>
+                <li>Investigating and using new technologies where relevant.</li>
+                <li>Enhancing applications by identifying opportunities for improvement, making
+                    recommendations and designing and implementing systems.</li>
+                <li>Enhancing applications by identifying opportunities for improvement, making
+                    recommendations and designing and implementing systems.</li>
+            </ul>
+        </p>
+
+        <h2 style="font-size: 13px;margin-top:40px">SENIOR SOFTWARE ENGINEER</h2>
+        <p style="margin-top:-9px;font-size:13px">PETSAAL TECHNOLOGIES | LAHORE</p>
+        <p style="margin-top:-12px;font-size:13px">NOV 2021 - PRESENT</p>
+        <p style="margin-top:-15px">
+            <ul style="font-size:13px">
+                <li>Development and maintenance of existing enterprise level software solutions.</li>
+                <li>Collaboration with mobile application developers to improve and provide services.</li>
+                <li>Improving system quality by identifying issues and common patterns, and
+                    developing standard operating procedures.</li>
+                <li>Investigating and using new technologies where relevant.</li>
+                <li>Enhancing applications by identifying opportunities for improvement, making
+                    recommendations and designing and implementing systems.</li>
+                <li>Enhancing applications by identifying opportunities for improvement, making
+                    recommendations and designing and implementing systems.</li>
             </ul>
         </p>
     </div>
