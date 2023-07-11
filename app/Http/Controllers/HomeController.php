@@ -14,8 +14,8 @@ class HomeController extends Controller
             'date' => date('m/d/Y')
         ];
           
-        $pdf = PDF::loadView('download', $data);
+        $pdf = PDF::loadView('tayyab', $data);
     
-        return $pdf->download('Tayyab Rasool - Senior Software Enginner.pdf');
+        return $pdf->stream('Tayyab Rasool - Senior Software Engineer.pdf');
     }
 }
